@@ -1,0 +1,10 @@
+{
+    "domain": "rtl433_weather",
+    "name": "RTL_433 MQTT Weather Station Discovery",
+    "version": "1.0.0",
+    "documentation": "https://github.com/swittk/rtl433_weather",
+    "dependencies": ["mqtt"],
+    "codeowners": ["@swittk"],
+    "requirements": [],
+    "config_flow": true
+  }
